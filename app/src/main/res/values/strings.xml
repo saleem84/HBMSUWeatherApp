@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HBMSU Weather App</string>
+    <string name="main_title">Weather</string>
+    <string name="main_date">Last updated:</string>
+
+    <string name="main_degree_centigrade">°C</string>
+    <string name="main_degree_fahrenheit">°F</string>
+    <string name="main_degree_separator">|</string>
+</resources>
